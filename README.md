@@ -7,7 +7,7 @@
 Bikeshare User Trends
 
 ### Description
-Analysis and Visualization of City-based Bikeshare Data
+Analysis and Visualization of City-based Bikeshare Data (New York, Wasington, Chicago)
 
 ### Files used
 bikeshare.py
