@@ -26,6 +26,7 @@ def get_filters():
             break
         else:
             print("You have entered an incorrect city name. Please try again.")
+            print("You have to enter exact name of city in above question")
     # TO DO: get user input for month (all, january, february, ... , june)
     months = ['all', 'january', 'february', 'march', 'april', 'may', 'june']
     while True:
@@ -203,6 +204,7 @@ def main():
 
         restart = input('\nWould you like to restart? Enter yes or no.\n')
         if restart.lower() != 'yes':
+            print("-------End Service-------")
             break
 
 
