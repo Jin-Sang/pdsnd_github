@@ -4,10 +4,10 @@
 2024.07.17 
 
 ### Project Title
-Bikeshare of Cities
+Bikeshare User Trends
 
 ### Description
-Project: Analysis and Visualization of City-based Bikeshare Data
+Analysis and Visualization of City-based Bikeshare Data
 
 ### Files used
 bikeshare.py
@@ -17,3 +17,8 @@ chicago.csv
 
 ### Credits
 https://github.com/udacity/pdsnd_github
+
+### Cities
+New York
+Washington
+Chicago
